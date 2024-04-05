@@ -1,4 +1,7 @@
 header {
   background: seagreen;
-  height: 200px;
+  height: 150px;
+}
+body {
+  margin: 0;
 }
