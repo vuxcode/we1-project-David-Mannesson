@@ -9,7 +9,9 @@ REMEMBER TO "COMMIT" YOUR CHANGES REGULARLY TO SHOW HOW YOU HAVE BUILT THIS PROJ
 
 # Project Notes
 
-> You can use this section of the file to keep notes about your project as you work on it
+> I'mma use this place for my less professional notes
+> Macau has like, a lot of really nice casinos (Vegas too!)
+> I'm just gonna steal the branding of the Lucky 38 for my website, not like Robert E. House is going to sue me 
 
 # Project Summary
 
