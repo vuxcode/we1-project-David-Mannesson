@@ -1,8 +1,9 @@
 # Time Report
 
-> Write about what you have done and how long you have worked on each part of the project.
-
-For example: 
-
-- 2022-10-25 13:00 Worked for 1 hour.
-  - *List the things you have done.*
+- 2024-04-05 - 1h 30min - Web Design
+  - Made an actual style plan
+    - Decided font (yet to be implemnted)
+  - Implemented STC
+  - Made WD CSS file
+  - Made and experimented with header
+  - Spent most of the time just trying to figure out how to do Web Design
