@@ -11,6 +11,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: seagreen;
+  text-align: center;
 }
 li {
   display: inline-block;
