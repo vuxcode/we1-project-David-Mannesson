@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 header {
   background: seagreen;
   height: 100px;
 }
 body {
   margin: 0;
-  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-family: 'PT Sans', 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 ul {
   list-style-type: none;
@@ -31,6 +33,11 @@ li a:hover {
 .selected {
   background-color: mediumseagreen;
 }
-article div {
-  margin: 0 20px;
+article {
+  margin: 40px 30px;
+}
+.HomeIMG {
+  height: 341px;
+  width: 511px;
+  float: right;
 }
