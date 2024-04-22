@@ -4,6 +4,7 @@ header {
 }
 body {
   margin: 0;
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 ul {
   list-style-type: none;
