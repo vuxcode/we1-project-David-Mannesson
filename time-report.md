@@ -12,3 +12,9 @@
   - Preliminary implementation of navigation bar
   - Added litany
   - Decided on backup fonts (yet to be implemented)
+
+- 2024-04-24 - 2h
+- I would like it to be known that I have done work earlier, it's just that I forgot to write about it here
+- Added footer and associated information
+- Made and added SVG logo
+- Added favicon
