@@ -1,12 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+
+body {
+  margin: 0;
+  font-family: 'PT Sans', 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
 header {
   background: seagreen;
   height: 100px;
 }
-body {
-  margin: 0;
-  font-family: 'PT Sans', 'Segoe UI', Tahoma, Verdana, sans-serif;
+.logo {
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+}
+h1 {
+  color: white;
+  text-align: center;
 }
 ul {
   list-style-type: none;
@@ -40,4 +50,8 @@ article {
   height: 341px;
   width: 511px;
   float: right;
+}
+footer {
+  background: seagreen;
+  height: 75px;
 }
