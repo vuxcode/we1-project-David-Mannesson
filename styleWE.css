@@ -55,3 +55,11 @@ footer {
   background: seagreen;
   height: 75px;
 }
+footer p {
+  color: white;
+  font-size: 85%;
+  margin: 5px;
+}
+footer div p {
+  font-size: 55%;
+}
