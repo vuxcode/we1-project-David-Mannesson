@@ -10,13 +10,14 @@ header {
   height: 100px;
 }
 .logo {
-  display: inline-block;
+  display: inline;
   height: 80px;
   width: 80px;
 }
 h1 {
   color: white;
   text-align: center;
+  display: inline;
 }
 ul {
   list-style-type: none;
@@ -53,7 +54,9 @@ article {
 }
 footer {
   background: seagreen;
-  height: 75px;
+  height: 100px;
+  /*position: fixed;
+  bottom: 0;*/
 }
 footer p {
   color: white;
