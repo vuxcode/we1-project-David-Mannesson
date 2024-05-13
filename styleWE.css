@@ -3,15 +3,17 @@
 
 body {
   margin: 0;
-  font-family: 'PT Sans', 'Segoe UI', Tahoma, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 header {
   background: seagreen;
   height: 100px;
+  
 }
 header div {
-  width: 390px;
+  width: 420px;
   margin: auto;
+  vertical-align: middle;
 }
 .logo {
   /*display: inline;*/
@@ -20,9 +22,10 @@ header div {
 }
 h1 {
   color: white;
-  text-align: center;
-  display: inline;
-  margin: 23px 0;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0;
+  padding-top: 20px;
 }
 ul {
   list-style-type: none;
