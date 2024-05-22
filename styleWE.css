@@ -1,3 +1,4 @@
+/*Inporting of font*/
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 
@@ -8,7 +9,6 @@ body {
 header {
   background: seagreen;
   height: 100px;
-  
 }
 header div {
   width: 420px;
@@ -16,7 +16,6 @@ header div {
   vertical-align: middle;
 }
 .logo {
-  /*display: inline;*/
   height: 80px;
   width: 80px;
 }
@@ -55,15 +54,14 @@ li a:hover {
 article {
   margin: 40px 30px;
 }
-.HomeIMG {
+/*.HomeIMG {
   height: 341px;
   width: 511px;
   float: right;
-}
+}*/
 footer {
   background: seagreen;
   height: 100px;
-  /*position: fixed;*/
   bottom: 0;
 }
 footer p {
