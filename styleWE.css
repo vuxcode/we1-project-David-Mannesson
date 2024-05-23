@@ -54,11 +54,14 @@ li a:hover {
 article {
   margin: 40px 30px;
 }
-/*.HomeIMG {
+article div {
+  font-style: italic;
+}
+.HomeIMG {
   height: 341px;
   width: 511px;
   float: right;
-}*/
+}
 footer {
   background: seagreen;
   height: 100px;
