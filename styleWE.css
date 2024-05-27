@@ -52,17 +52,25 @@ li a:hover {
   background-color: mediumseagreen;
 }
 article {
-  margin: 40px 30px;
-}
-article div {
-  font-style: italic;
+  margin: 30px 30px;
 }
 .HomeIMG {
   height: 341px;
-  width: 511px;
-  float: right;
+  margin: 15px 15px 30px;
+  float: left;
+}
+.AboutIMG {
+  width: 350px;
+  margin: 15px;
+  float: left;
+}
+.BlackjackIMG{
+  width: 250px;
+  margin: 15px;
+  float: left;
 }
 footer {
+  clear: both;
   background: seagreen;
   height: 100px;
   bottom: 0;
